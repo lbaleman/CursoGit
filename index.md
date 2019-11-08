@@ -6,3 +6,4 @@
 *Larry Plotter amputa culos y brazos
 *Larry Plotter creeeeeema
 *Larry Plotter y el misterio del Hacker
+*Larry Plotter y los commits de la muerte
